@@ -40,7 +40,7 @@ The goal is to bring **trust and transparency** to ticket distribution while giv
 ## 🔗 Deployed Smart Contract
 
 **Network:** Celo Sepolia Testnet  
-**Contract Address:** [`0x5bEBb461a60DdaFD6769Dee3Ae77AA8844D07dFF`](https://celo-sepolia.blockscout.com/address/0x5bEBb461a60DdaFD6769Dee3Ae77AA8844D07dFF)
+**Contract Address:** 0x5bEBb461a60DdaFD6769Dee3Ae77AA8844D07dFF
 
 You can view all transactions, functions, and contract interactions via **Blockscout**.
 
